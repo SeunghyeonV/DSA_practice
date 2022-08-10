@@ -1,1 +1,1 @@
-*.exe
+cpp_tutorials/*.exe
